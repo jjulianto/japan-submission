@@ -1,2 +1,2 @@
 # japan-submission
-final project to learn the basics of web programming
+Final project to learn the basics of web programming in Dicoding Indonesia

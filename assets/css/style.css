@@ -72,7 +72,7 @@ header {
     text-align: center;
     font-weight: bold;
     color: white;
-    background-image: url('../assets/images/japan.jpg');
+    background-image: url('../images/japan.jpg');
     background-size: cover;
     position: relative;
 }
